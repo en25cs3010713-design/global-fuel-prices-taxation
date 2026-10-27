@@ -1,112 +1,99 @@
-Global Fuel Prices and Taxation Trends
+Global Fuel Prices and Taxation Trends: A Comprehensive Analysis
 
-A Comprehensive Analysis of Global Fuel Prices Using Tableau
+Student Name: Prishma Gupta
+Project Title: Global Fuel Prices and Taxation Trends
+Tool Used: Tableau Public
+Project Type: Data Analytics and Visualization
 
-1. Project Overview
+1. Introduction
 
-The Global Fuel Prices and Taxation Trends project focuses on analysing fuel price variations across different countries and regions and exploring the relationship between fuel prices and taxation.
+Fuel prices vary across countries and regions due to differences in taxation, government policies, subsidies, economic conditions, and market factors. This project analyzes global fuel prices and taxation trends using data analytics and Tableau visualizations.
 
-Fuel prices play an important role in transportation, economic activities, household expenses, and international trade. Differences in taxation policies, subsidies, and regional conditions can influence the prices consumers pay for fuel.
-
-This project uses data visualisation and analytical techniques in Tableau to present fuel price patterns in an understandable and interactive format.
+The main objective is to compare fuel prices across countries and regions, examine changes over time, and explore the relationship between taxation and petrol prices.
 
 2. Problem Statement
 
-Fuel prices vary across countries and regions, making it difficult to compare prices and understand their patterns over time. Taxation is one of the factors worth examining when studying differences in retail fuel prices.
+Understanding global fuel price variations is challenging because prices differ significantly across countries and regions. This project uses data visualization to present these differences clearly and explore how taxation may be associated with fuel prices.
 
-The main problem addressed by this project is how to organise and visualise fuel price and taxation data to make country-level, regional, and time-based comparisons easier.
+3. Objectives
 
-3. Project Objectives
-
-- Analyse average petrol prices across different countries.
-- Examine petrol and diesel price trends over time.
+- Compare average petrol prices across countries.
+- Analyze petrol and diesel price trends over time.
 - Compare fuel prices across global regions.
-- Explore the relationship between taxation percentages and petrol prices.
-- Present the analysis through clear and informative Tableau visualisations.
-- Make the results easier to understand through a consolidated dashboard.
+- Explore the relationship between taxation and petrol prices.
+- Present the findings through an interactive Tableau dashboard and story.
 
-4. Dataset Description
+4. Data Collection
 
-The starter dataset used for this project contains approximately 27,468 records, covering 84 countries and 7 global regions, from January 2020 to April 2026.
+The project dataset contains approximately 27,468 records covering 84 countries and seven global regions, from January 2020 to April 2026.
 
-The dataset includes fields related to:
+The dataset includes fuel-price information and related variables such as country, region, date, petrol prices, diesel prices, and taxation-related measures.
 
-- Date and country
-- Global region
-- Petrol price per litre in USD
-- Diesel price per litre in USD
-- LPG price per litre in USD
-- Tax percentage
-- Pre-tax petrol price
-- Income level and subsidy category
-- Brent crude oil price and oil-producing status
+5. Data Preparation and Cleaning
 
-Data limitation: The supplied starter dataset contains simulated demonstration values. Therefore, its charts illustrate analytical methods and visualisation techniques rather than verified real-world fuel prices or taxation statistics.
+The dataset was used to prepare the information for visualization. The preparation process involved examining the available fields, checking data types, identifying relevant variables, and organizing the data for analysis.
 
-5. Tools and Technologies
+Date fields were used for time-based analysis, country and region fields for comparisons, and petrol-price and taxation measures for the relevant charts. Aggregated measures were used to compare average prices.
 
-- Tableau Public: Data visualisation, chart creation, and dashboard development.
-- GitHub: Project repository and documentation.
-- Dataset: Structured fuel price and taxation data.
-- Data Analysis: Aggregation, comparison, and trend exploration.
+6. Tools and Technologies
 
-6. Methodology
+- Tableau Public: Creating charts, dashboards, and a story.
+- Dataset: Global fuel prices and taxation data.
+- GitHub: Hosting the project repository and related project information.
 
-The project follows these analytical steps:
+7. Visualizations and Dashboard
 
-1. Data Understanding: Identify the dataset structure, fields, countries, regions, and time period.
-2. Data Preparation: Check data types, missing values, duplicate country-date records, and measurement units as part of data-quality validation.
-3. Data Analysis: Use average fuel prices to compare countries and regions and examine changes over time.
-4. Visualisation: Build charts to present country-level prices, time trends, regional comparisons, and taxation-related patterns.
-5. Dashboard Development: Combine the visualisations into a single Tableau dashboard for convenient exploration.
-6. Interpretation: Explain visible patterns while recognising the limitations of simulated data and avoiding unsupported causal conclusions.
+Four visualizations were created for the project.
 
-7. Tableau Dashboard Visualisations
+7.1 Average Petrol Price by Country
 
-A. Average Petrol Price by Country
+This horizontal bar chart compares average petrol prices across countries. It helps identify countries with relatively higher and lower average petrol prices.
 
-A horizontal bar chart comparing average petrol prices across countries. It helps viewers compare country-level price differences.
+7.2 Fuel Price Trends
 
-B. Fuel Price Trends
+This line-chart visualization presents average petrol and diesel prices over time. It helps identify changes and fluctuations between 2020 and 2026.
 
-A line chart displaying average petrol and diesel prices over time. It helps viewers explore how the two fuel-price series change across the selected years.
+7.3 Regional Fuel Price Comparison
 
-C. Regional Fuel Price Comparison
+This bar chart compares average petrol prices across seven global regions. It highlights regional differences in fuel prices.
 
-A bar chart comparing average fuel prices across global regions. It provides a regional perspective on fuel-price differences.
+7.4 Taxation vs Fuel Prices
 
-D. Taxation vs Fuel Prices
+This scatter plot compares taxation-related values with average petrol prices across countries. It helps explore possible associations between taxation and fuel prices, but does not establish causation.
 
-A scatter plot comparing tax percentage with average petrol price. Each point represents a country in the visualisation, allowing viewers to explore whether higher tax percentages appear alongside different petrol price levels.
+8. Key Findings
 
-8. Key Analytical Insights
+The visualizations indicate that average petrol prices vary across countries and regions. The regional comparison shows differences between regional averages, while the time-series chart shows changes in petrol and diesel prices over the period studied.
 
-The dashboard is designed to help users:
+The scatter plot shows variation in petrol prices across the taxation-related values represented in the dataset. Further statistical analysis would be required to determine the strength of this relationship and account for other factors.
 
-- Identify differences in average petrol prices between countries.
-- Compare the movement of petrol and diesel prices over time.
-- Examine variation in fuel prices across global regions.
-- Explore possible associations between tax percentages and petrol prices.
-- Identify patterns that could guide further investigation using verified data.
+9. Dashboard and Story
 
-Because the starter data is simulated, these observations must not be treated as confirmed findings about actual fuel markets.
+The four visualizations were combined into a Tableau dashboard titled Global Fuel Prices and Taxation Dashboard. A Tableau story was also created to present the analysis in stages, including country comparisons, temporal trends, regional differences, and taxation-related comparisons.
 
-9. Limitations
-
-- The starter dataset contains simulated rather than verified real-world observations.
-- The analysis does not establish that taxation directly causes a particular fuel price.
-- Country-level averages may hide local differences.
-- Reliable real-world conclusions would require verified data sources and additional validation.
+The published Tableau Public project provides access to the visualizations for review.
 
 10. Conclusion
 
-This project demonstrates how Tableau can be used to explore global fuel price patterns and taxation-related variables through data visualisation.
+This project demonstrates how data analytics and visualization can help explain global fuel-price differences. Tableau charts make it easier to compare countries, examine trends over time, and explore relationships between taxation and petrol prices.
 
-By combining country-level comparisons, time-series analysis, regional charts, and a tax-versus-price scatter plot, the dashboard provides a structured overview of the dataset.
+Fuel prices are influenced by multiple economic and policy factors. Therefore, taxation should not be considered the sole cause of price differences without further analysis.
 
-The project also demonstrates the importance of data preparation, clear visual communication, and responsible interpretation. Future improvements could include verified fuel price data, additional interactive filters, and more detailed comparisons of taxation and subsidy policies.
+11. Future Scope
 
-11. Project Links
+The project could be extended by incorporating additional economic indicators, comparing government policies, applying statistical techniques, and adding more interactive filters to the dashboard.
+
+12. Project Links
+
+Tableau Public Dashboard and Story: [Insert the published Tableau Public profile or project link]
+
+GitHub Repository: https://github.com/en25cs3010713-design/global-fuel-prices-taxation
+
+13. Acknowledgement
+
+I acknowledge the use of Tableau Public for data visualization and GitHub for project hosting. This project helped me understand the practical application of data analysis, visualization, and presentation techniques.
+
+14. Project Links
 
 - Live Tableau Dashboard: [https://public.tableau.com/app/profile/prishma.gupta/viz/GlobalFuelPricesandTaxationDashboard/GlobalFuelPricesTaxationDashboard2020-2026?publish=yes]
 - Story Link: [https://public.tableau.com/app/profile/prishma.gupta/viz/GlobalFuelPricesTaxationDashboard/Story]
