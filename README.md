@@ -87,17 +87,13 @@ Fuel prices are influenced by multiple economic and policy factors. Therefore, t
 
 The project could be extended by incorporating additional economic indicators, comparing government policies, applying statistical techniques, and adding more interactive filters to the dashboard.
 
-12. Project Links
-
-Tableau Public Dashboard and Story: [Insert the published Tableau Public profile or project link]
-
-GitHub Repository: https://github.com/en25cs3010713-design/global-fuel-prices-taxation
-
-13. Acknowledgement
+12. Acknowledgement
 
 I acknowledge the use of Tableau Public for data visualization and GitHub for project hosting. This project helped me understand the practical application of data analysis, visualization, and presentation techniques.
 
-14. Project Links
+13. Project Links
+
+- GitHub Repository: https://github.com/en25cs3010713-design/global-fuel-prices-taxation
 
 - Live Tableau Dashboard: [https://public.tableau.com/app/profile/prishma.gupta/viz/GlobalFuelPricesandTaxationDashboard/GlobalFuelPricesTaxationDashboard2020-2026?publish=yes]
 - Story Link: [https://public.tableau.com/app/profile/prishma.gupta/viz/GlobalFuelPricesTaxationDashboard/Story]
