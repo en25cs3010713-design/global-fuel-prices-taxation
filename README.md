@@ -1,9 +1,13 @@
 Global Fuel Prices and Taxation Trends: A Comprehensive Analysis
 
 Student Name: Prishma Gupta
+
 Project Title: Global Fuel Prices and Taxation Trends
+
 Tool Used: Tableau Public
+
 Project Type: Data Analytics and Visualization
+
 
 1. Introduction
 
