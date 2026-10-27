@@ -108,8 +108,8 @@ The project also demonstrates the importance of data preparation, clear visual c
 
 11. Project Links
 
-- Live Tableau Dashboard: [Insert your published Tableau dashboard link here]
-- Project Demonstration Video: [Insert your video link here when ready]
+- Live Tableau Dashboard: [https://public.tableau.com/app/profile/prishma.gupta/viz/GlobalFuelPricesandTaxationDashboard/GlobalFuelPricesTaxationDashboard2020-2026?publish=yes]
+- Project Demonstration Video: [https://drive.google.com/file/d/1aORPRaq1IfU87LBuLZF0fwTmzPos2fva/view?usp=sharing]
 
 ---
 
