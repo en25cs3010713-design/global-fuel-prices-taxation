@@ -289,8 +289,7 @@ These observations describe the analytical questions supported by the workbook. 
   
 - Story Link: https://public.tableau.com/views/GlobalFuelPricesandTaxationDashboard/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
-- Project Demonstration Video: [https://drive.google.com/file/d/1aORPRaq1IfU87LBuLZF0fwTmzPos2fva/view?usp=sharing]
-
+- Project Demonstration Video: 
 
 
 ⚠️ 12. Limitations
