@@ -289,7 +289,7 @@ These observations describe the analytical questions supported by the workbook. 
   
 - Story Link: https://public.tableau.com/views/GlobalFuelPricesandTaxationDashboard/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
-- Project Demonstration Video: 
+- Project Demonstration Video: https://drive.google.com/file/d/1TQUddfAIA7qrsZidT-45BAq0xbPC0cd9/view?usp=sharing
 
 
 ⚠️ 12. Limitations
@@ -342,8 +342,11 @@ I acknowledge the use of Tableau Public for developing and publishing the visual
 ---
 
 Project Title: Global Fuel Prices and Taxation Trends: A Comprehensive Analysis
+
 Created by: Prishma Gupta
+
 Visualization Tool: Tableau Public
+
 Repository Platform: GitHub
 
 ---
