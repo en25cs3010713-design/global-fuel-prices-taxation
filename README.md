@@ -95,8 +95,8 @@ I acknowledge the use of Tableau Public for data visualization and GitHub for pr
 
 - GitHub Repository: https://github.com/en25cs3010713-design/global-fuel-prices-taxation
 
-- Live Tableau Dashboard: [https://public.tableau.com/app/profile/prishma.gupta/viz/GlobalFuelPricesandTaxationDashboard/GlobalFuelPricesTaxationDashboard2020-2026?publish=yes]
-- Story Link: [https://public.tableau.com/app/profile/prishma.gupta/viz/GlobalFuelPricesTaxationDashboard/Story]
+- Live Tableau Dashboard: https://public.tableau.com/app/profile/prishma.gupta/viz/GlobalFuelPricesandTaxationDashboard/GlobalFuelPricesTaxationDashboard2020-2026?publish=yes
+- Story Link: https://public.tableau.com/views/GlobalFuelPricesandTaxationDashboard/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - Project Demonstration Video: [https://drive.google.com/file/d/1aORPRaq1IfU87LBuLZF0fwTmzPos2fva/view?usp=sharing]
 
 ---
